@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  type_of_drink: MyString
+  sweetness: MyString
+  milk: MyString
+  quantity: 1
+  size: MyString
+  drink_subtype: MyString
+  type_of_drink: MyString
+  sweetner: MyString
+  drink_subtype: MyString
+  milk: MyString
+  size: MyString
+  quantity: MyString
+
+two:
+  type_of_drink: MyString
+  sweetness: MyString
+  milk: MyString
+  quantity: 1
+  size: MyString
+  drink_subtype: MyString
+  type_of_drink: MyString
+  sweetner: MyString
+  drink_subtype: MyString
+  milk: MyString
+  size: MyString
+  quantity: MyString
